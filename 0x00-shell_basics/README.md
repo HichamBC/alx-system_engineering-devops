@@ -3,3 +3,4 @@
 3) 2-bring_me_home file is a script that changes the working directory to the user’s home directory.
 4) 3-listfiles file is a script that Display current directory contents in a long format.
 5) 4-listmorefiles file is a script that Display current directory contents, including hidden files (starting with .) Using the long format.
+6) 5-listfilesdigitonly file is a script that Display current directory contents with long format, user and group IDs displayed numerically and hidden files.
