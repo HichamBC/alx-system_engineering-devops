@@ -6,3 +6,4 @@
 6) 5-listfilesdigitonly file is a script that Display current directory contents with long format, user and group IDs displayed numerically and hidden files.
 7) 6-firstdirectory file is a script that creates a directory named my_first_directory in the /tmp/ directory.
 8) 7-movethatfile file is a script that moves the file betty from /tmp/ to /tmp/my_first_directory.
+9) 8-firstdelete file is a script that Deletes the file betty.
