@@ -11,3 +11,4 @@
 11) 10-love_exponent_breath file is a script that displays the result of BREATH to the power LOVE.
 12) 11-binary_to_decimal file is a script that converts a number from base 2 to base 10.
 13) 12-combinations file is a script that prints all possible combinations of two letters, except oo.
+14) 13-print_float file is a script that prints a number with two decimal places, followed by a new line.
