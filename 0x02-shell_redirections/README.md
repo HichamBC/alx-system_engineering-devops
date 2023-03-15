@@ -22,3 +22,4 @@
 22) 21-reverse a script that reverse its input.
 23) 22-users_and_homes a script that displays all users and their home directories, sorted by users.
 24) 100-empty_casks file is a command that finds all empty files and directories in the current directory and all sub-directories.
+25) 101-gifs file is a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
