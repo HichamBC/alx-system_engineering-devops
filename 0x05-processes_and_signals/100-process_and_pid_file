@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+#create a file and handle many linux signals.
+
+delete() {
+	rm /var/run/myscript.pid
+	exit
+}
+
+trap "echo 'I hate the kill command' && delete"  SIGTERM
+trap "echo 'Y U no love me?!'" SIGINT
+trap "delete" SIGQUIT
+
+pgrep -f "$0" > /var/run/myscript.pid
+
+while true
+do
+	echo "To infinity and beyond"
+	sleep 2
+done
